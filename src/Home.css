@@ -1,0 +1,31 @@
+.Home{
+	 color: black;
+	 font-family: "Open Sans";
+	 font-size: 18px;
+	 margin-top: 100px;
+}
+
+
+
+.Home h3{
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+
+.Home p{
+	text-align: left;
+	margin: 30px;
+}
+
+.Info {
+	width: 60%;
+	margin: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	text-align: left;
+	border: 2px solid #11aa37;
+	border-radius: 20px;
+}
